@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "611089728731",
+    "project_id": "friendo-journal",
+    "storage_bucket": "friendo-journal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611089728731:android:db0f3e18af440c66fc78fe",
+        "android_client_info": {
+          "package_name": "com.friendo.journal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611089728731-ogpssdikgaqhm4oa4v5i45j8baa03ecf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDESjDo7vGWwziP8suENUGfcW--DOOR4pI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611089728731-ogpssdikgaqhm4oa4v5i45j8baa03ecf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
